@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielr13
 - 👀 I’m interested in Graphic design, UX and multimedia development
 - 🌱 I’m currently learning all of this
-- 💞️ I’m looking to collaborate on developing a design platform that encompasses tools not typically utilied by ppt.
+- 💞️ I’m looking to collaborate on developing a design platform that encompasses tools not typically utilized by ppt. but are needed.
 - 📫 How to reach me @daniel.i.reeder@gmail.com
 
 <!---
